@@ -22,6 +22,8 @@ npm run build
 # Build and run the Rust app
 cd ..
 cargo run
+# or build with nightly...
+cargo +nightly run
 
 # Access at http://localhost:5000
 ```
