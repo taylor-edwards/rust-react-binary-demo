@@ -1,7 +1,7 @@
 [package]
 name = "react-rust"
 version = "0.1.0"
-authors = ["Taylor Edwards <Taylor.Edwards68@T-Mobile.com>"]
+authors = ["Taylor Edwards <me@tayloredwards.net>"]
 
 [dependencies]
 rouille = "2.1.0"
